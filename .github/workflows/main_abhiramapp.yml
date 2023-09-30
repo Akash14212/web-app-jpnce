@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'abhiramapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1750C1F1C88A447DBEB693F4E8121392 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B303D3DC4D243989291C56E61D02E43 }}
